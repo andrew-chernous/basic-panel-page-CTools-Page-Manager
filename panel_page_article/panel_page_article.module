@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the panel page article feature.
+ */
+
+include_once 'panel_page_article.features.inc';
